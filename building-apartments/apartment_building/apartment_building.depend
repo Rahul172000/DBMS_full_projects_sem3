@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572096380 source:c:\mysql dbms sem3\c++ codes\building-apartments\apartment_building\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+

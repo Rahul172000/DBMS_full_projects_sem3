@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572629800 source:c:\mysql dbms sem3\c++ codes\nsit-hockey-tournament\nht\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+

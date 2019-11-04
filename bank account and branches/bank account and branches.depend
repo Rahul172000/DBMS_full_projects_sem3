@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571930789 source:c:\mysql dbms sem3\c++ codes\bank account and branches\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+

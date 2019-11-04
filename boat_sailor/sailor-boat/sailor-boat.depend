@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571924554 source:c:\mysql dbms sem3\c++ codes\boat_sailor\sailor-boat\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+

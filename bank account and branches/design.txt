@@ -1,0 +1,6 @@
+1 table with branches
+	ifsc code,name
+1 table for general with 
+	customer id,customer name,ifsc code,saving(bool),number of fd(deafult=0),employee(bool),
+1 table for employees but since difficulty in printing so made manager and staff in general table only......
+	cust id,employee name,ifsc code,post
